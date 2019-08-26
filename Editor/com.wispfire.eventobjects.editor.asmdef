@@ -1,0 +1,14 @@
+{
+    "name": "com.wispfire.eventobjects.editor",
+    "references": [
+        "com.wispfire.eventobjects"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
